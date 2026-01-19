@@ -1,5 +1,5 @@
 {
-  "name": "foldermap",
+  "name": "foldermaster",
   "version": "1.0.0",
   "description": "A tool to visualize folder structures",
   "author": "deeemx",
@@ -10,7 +10,7 @@
   },
   "build": {
     "appId": "com.foldertree.app",
-    "productName": "FolderMap",
+    "productName": "FolderMaster",
     "directories": {
       "output": "dist"
     },
