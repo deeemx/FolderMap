@@ -1,4 +1,4 @@
-**FolderMap**
+**FolderMaster**
 
 A tool that automatically creates interactive tree diagrams from your folder structure which can be turned to text.
 
