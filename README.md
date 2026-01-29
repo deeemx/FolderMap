@@ -18,9 +18,9 @@ Export the folder structure as text
 
 Installation
 
-Clone the repository:
+Clone the repository and build it in terminal:
 
-git clone `https://github.com/deeemx/FolderMap`
+git clone `https://github.com/deeemx/FolderMaster`
 
 
 Or download the .exe file from the releases
